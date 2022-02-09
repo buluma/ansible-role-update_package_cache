@@ -4,7 +4,7 @@ Update cache for yum and apt package managers.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-update_package_cache/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-update_package_cache/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-update_package_cache/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-update_package_cache)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/update_package_cache)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/update_package_cache)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/releases/)|
+|[![github](https://github.com/buluma/ansible-role-update_package_cache/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-update_package_cache/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-update_package_cache/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-update_package_cache)|[![quality](https://img.shields.io/ansible/quality/57997)](https://galaxy.ansible.com/buluma/update_package_cache)|[![downloads](https://img.shields.io/ansible/role/d/57997)](https://galaxy.ansible.com/buluma/update_package_cache)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
