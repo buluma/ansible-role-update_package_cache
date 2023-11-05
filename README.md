@@ -2,9 +2,9 @@
 
 Update cache for yum and apt package managers.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-update_package_cache/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-update_package_cache/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-update_package_cache/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-update_package_cache)|[![quality](https://img.shields.io/ansible/quality/57997)](https://galaxy.ansible.com/buluma/update_package_cache)|[![downloads](https://img.shields.io/ansible/role/d/57997)](https://galaxy.ansible.com/buluma/update_package_cache)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-update_package_cache/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-update_package_cache/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-update_package_cache/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-update_package_cache)|[![downloads](https://img.shields.io/ansible/role/d/4871)](https://galaxy.ansible.com/buluma/update_package_cache)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-update_package_cache.svg)](https://github.com/buluma/ansible-role-update_package_cache/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
