@@ -3,12 +3,12 @@
 
 - name: Update apt cache
   ansible.builtin.apt:
-    update_cache: yes
+    update_cache: true
   when:
     - ansible_pkg_mgr == "apt"
 
 - name: Update yum cache
   ansible.builtin.yum:
-    update_cache: yes
+    update_cache: true
   when:
     - ansible_pkg_mgr == "yum"
