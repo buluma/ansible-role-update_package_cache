@@ -46,10 +46,6 @@ jobs:
       fail-fast: false
       matrix:
         config:
-          - image: "docker-molecule-images"
-            tag: "alpine-openrc"
-          - image: "docker-molecule-images"
-            tag: "amazonlinux2023"
           - image: "enterpriselinux"
             tag: "8"
           - image: "docker-molecule-images"
@@ -65,11 +61,9 @@ jobs:
           - image: "docker-molecule-images"
             tag: "opensuse"
           - image: "docker-molecule-images"
-            tag: "ubuntu_latest"
+            tag: "jammy"
           - image: "docker-molecule-images"
             tag: "focal"
-          - image: "docker-molecule-images"
-            tag: "jammy"
           - image: "docker-molecule-images"
             tag: "noble"
           - image: "docker-molecule-images"
