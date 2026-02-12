@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-update_package_cache/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-update_package_cache/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- rebuild action [\#11](https://github.com/buluma/ansible-role-update_package_cache/issues/11)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-update_package_cache/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-update_package_cache/compare/1.2.0...24.3.31)
