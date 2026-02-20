@@ -8,7 +8,7 @@
     - ansible_pkg_mgr == "apt"
 
 - name: Update yum cache
-  ansible.builtin.yum:
+  ansible.builtin.dnf:
     update_cache: true
   when:
     - ansible_pkg_mgr == "yum"
