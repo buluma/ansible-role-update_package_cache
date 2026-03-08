@@ -5,4 +5,4 @@
   gather_facts: yes
 
   roles:
-  - role: buluma.update_package_cache
+    - role: buluma.update_package_cache
